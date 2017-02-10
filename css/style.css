@@ -1,0 +1,17 @@
+#game{
+  width:500px;
+  height:250px;
+  border:1px solid black;
+}
+
+#score{
+  font-family: "Helvetica-Neue", sans-serif;
+  font-weight:300;
+}
+
+.grid{
+  height:8px;
+  width:8px;
+  margin:1px;
+  float:left;
+}
